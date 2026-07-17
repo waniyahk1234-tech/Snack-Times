@@ -2,9 +2,9 @@ import { useState, useEffect } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
 const slides = [
-  "/Snacks-Time.png",
-  "/happy-hour.png",
-  "/food.png",
+  "/Snacks-Time.webp",
+  "/happy-hour.webp",
+  "/food.webp",
 ];
 
 export default function HeroBanner() {
