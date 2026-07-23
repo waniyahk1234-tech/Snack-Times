@@ -83,7 +83,7 @@ const Checkout = () => {
 
     // 2. FAKE WhatsApp Number FOR DEMO ONLY! 
     // CHANGE THIS TO "923123128488" ONLY WHEN YOU ACTUALLY SELL THE SITE!
-    const ownerPhone = "923461921388"; 
+    const ownerPhone = "923123128488"; 
 
     // 3. Open WhatsApp with pre-filled message
     const whatsappUrl = `https://wa.me/${ownerPhone}?text=${encodeURIComponent(message)}`;
